@@ -17,11 +17,11 @@ paginate = 3
   google_analytics_id = ""
   twitter_handle = "@zerostaticio"
 
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = false
-  showPostsOnHomepage = false
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = true
+  showPostsOnHomepage = true
 
-  addFrame = true
-  addDot = true
+  addFrame = false
+  addDot = false
 
-  highlightColor = '#7b16ff'
+  highlightColor = '#1A202C'
