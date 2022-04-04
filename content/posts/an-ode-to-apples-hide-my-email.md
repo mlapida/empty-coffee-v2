@@ -1,11 +1,11 @@
 ---
-title: "An Ode to Apple Hide My Email"
+title: "An Ode to Apple's Hide My Email"
 date: 2022-04-03T16:59:25-06:00
 author: Mike Lapidakis
 draft: false
+image: /images/hide-my-email-prefs.png
 description: Apple's Hide My Email feature is one of the most under-rated privacy launches of the past year, and here's why. 
 ---
-![Hide My Email Pref Pane](/images/hide-my-email-prefs.png)
 
 Last summer, Apple announced that as part of their [iCloud+](https://www.apple.com/icloud/) service expansion, a new feature named [*Hide My Email*](https://www.macrumors.com/how-to/use-hide-my-email-ios/) was launching. The feature received little fanfare and was mainly swept up in the plethora of other news from WWDC. After using it for nearly a year, I think we’ve done it a bit of a disservice. 
 
