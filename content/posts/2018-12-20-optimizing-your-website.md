@@ -9,6 +9,7 @@ categories: ["Development", "Web Design"]
 description: "Making sure your website runs fast and loads quickly is a fundamental part of the web design and seo process."
 thumbnail: "https://source.unsplash.com/MS7KD9Ti7FQ/640x360"
 image: "https://source.unsplash.com/MS7KD9Ti7FQ/1600x900"
+draft: true
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.

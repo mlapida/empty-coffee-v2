@@ -36,15 +36,16 @@ paginate = 3
     monospace = "Fira Mono"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@MikeLapidakis"
+    meta_twitter_creator = "@MikeLapidakis"
     meta_og_image = "https://www.zerostatic.io/theme/hugo-atlantic/hugo-atlantic-screenshot.png"
 
 [build]
   writeStats = true
 
 [permalinks]
-    posts = "blog/:year/:month/:title/"
+    #posts = "posts/:year/:month/:title/"
+    posts = ":slug/"
     pages = ":slug/"
 
 [taxonomies]

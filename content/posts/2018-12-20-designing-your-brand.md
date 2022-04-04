@@ -5,6 +5,7 @@ categories: ["Branding"]
 description: Branding is an intrinsic part of your companies success, learn why your brand matters.
 thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
 image: "https://source.unsplash.com/YmQ0-nmWcV0/1600x900"
+draft: true
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.

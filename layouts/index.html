@@ -1,6 +1,7 @@
 {{ define "main" }}
 
-{{ partial "heading/heading.html" (dict "title" .Params.heading.title "description" .Params.heading.description "align" .Params.heading.align "date" .Params.heading.date)}}
+{{ partial "heading/heading.html" (dict "title" .Params.heading.title "description" .Params.heading.description
+"align" .Params.heading.align "date" .Params.heading.date)}}
 
 <main class="py-6">
     {{ $pages := where $.Site.RegularPages "Type" "posts" }}
