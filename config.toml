@@ -21,9 +21,9 @@ paginate = 3
     showLogoImageOnDesktop = true
     showLogoImageOnMobile = false
     logoDesktopText = "Empty Coffee"
-    logoDesktopImage = "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/9f53b0a8-2067-4ac7-c5b5-b8f6c3b8da00/logo"
+    logoDesktopImage = "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/9f53b0a8-2067-4ac7-c5b5-b8f6c3b8da00/logo"
     logoMobileText = "Empty Coffee"
-    logoMobileImage = "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/9f53b0a8-2067-4ac7-c5b5-b8f6c3b8da00/logo"
+    logoMobileImage = "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/9f53b0a8-2067-4ac7-c5b5-b8f6c3b8da00/logo"
     logoDesktopImageHeight = 32
     logoDesktopImageWidth = 32
     logoMobileImageHeight = 32
@@ -38,7 +38,7 @@ paginate = 3
   [params.seo]
     meta_twitter_site = "@MikeLapidakis"
     meta_twitter_creator = "@MikeLapidakis"
-    meta_og_image = "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/f8dcc1a2-99e4-4f9d-f326-f42d55d35c00/post"
+    meta_og_image = "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/f8dcc1a2-99e4-4f9d-f326-f42d55d35c00/post"
 
 [build]
   writeStats = true

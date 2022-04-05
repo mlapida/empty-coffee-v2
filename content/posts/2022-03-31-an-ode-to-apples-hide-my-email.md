@@ -5,10 +5,10 @@ slug: /an-ode-to-apples-hide-my-email/
 description: Apple's Hide My Email feature is one of the most under-rated privacy launches of the past year, and here's why.
 author:
   name: "Mike Lapidakis"
-  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
+  image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
-thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/49e3740c-6bce-46c9-2991-41cb692ade00/thumbnail"
-image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/49e3740c-6bce-46c9-2991-41cb692ade00/hero"
+thumbnail: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/49e3740c-6bce-46c9-2991-41cb692ade00/thumbnail"
+image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/49e3740c-6bce-46c9-2991-41cb692ade00/hero"
 categories: [Services, Apple, Email, Security, Privacy]
 ---
 

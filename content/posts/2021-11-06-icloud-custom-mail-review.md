@@ -7,10 +7,10 @@ banner: ./icloud-logo.jpg
 categories: [Services, Apps, Email, HEY, Fastmail, Apple]
 author:
   name: "Mike Lapidakis"
-  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
+  image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
-thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/c9d2802a-f275-4709-da05-a5238228a100/thumbnail"
-image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/c9d2802a-f275-4709-da05-a5238228a100/hero"
+thumbnail: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/c9d2802a-f275-4709-da05-a5238228a100/thumbnail"
+image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/c9d2802a-f275-4709-da05-a5238228a100/hero"
 ---
 
 In August, [Apple released iCloud+](https://www.macrumors.com/2021/08/25/icloud-custom-email-domain-feature-in-beta/) with the ability to add a custom domain to iCloud Mail. After several months of full-time use, I wanted to share my experience and some of the things to look out for if you’re considering making a move. In short, I’m optimistic but a bit disappointed in Apple’s progress in offering custom domains to iCloud subscribers so far.
@@ -37,7 +37,7 @@ I’ve used iCloud Mail with Custom Domains for my primary personal email since 
 
 ## The SPAM and the Ugly
 
-![DKIM Alignment](https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/d8291103-531c-473a-0672-56111488b800/post)
+![DKIM Alignment](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/d8291103-531c-473a-0672-56111488b800/post)
 
 1. **Deliverability** — There are some strange issues with the alignment of signatures for [DKIM](https://en.wikipedia.org/wiki/DomainKeys_Identified_Mail), a method used to validate the authenticity of a message. If sending from a device, alignment and authentication is completely off, according to [MxToolbox](https://mxtoolbox.com/). If sending from iCloud.com, the authentication seems to be in place, but alignment is still off. This is something only Apple can fix. Right now, this means that sometimes messages sent end up in the receiving person’s SPAM folder. Deliverability is the second most important aspect of an email provider (behind security and privacy). This is really hurting my ability to recommend iCloud’s custom email implementation to others confidently. [*update* As of Feburary 1, DKIM authentication is now aligned]
 2. **Slow Web Interface** — iCloud.com is a slow, ugly abomination. Email messages can take seconds to load, making the interface all but worthless for triaging when not using the client on a device. The design did get an upgrade recently, but it still doesn’t support threaded messages and is painfully slow to load. This isn’t my primary interface for working with iCloud Mail, so I found it excusable, but I would love to see Apple invest in bringing it up to snuff with the competition.
