@@ -1,27 +1,70 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Empty Coffee"
-theme = "hugo-winston-theme"
-
+theme = "hugo-atlantic-theme"
+enableGitInfo = false
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+metaDataFormat = "yaml"
 paginate = 3
 
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.55.0"
-
 [params]
-  #google_analytics_id = ""
-  twitter_handle = "@ReadEmptyCoffee"
+  google_analytics_id = ""
 
-  showAuthorOnHomepage = false
-  showAuthorOnPosts = true
-  showPostsOnHomepage = true
+  [params.homepage]
+    postLimit = 6
+    
+  [params.logo]
+    showLogoTextOnDesktop = true
+    showLogoTextOnMobile = true
+    showLogoImageOnDesktop = true
+    showLogoImageOnMobile = true
+    logoDesktopText = "Empty Coffee"
+    logoDesktopImage = "images/logo/logo.png"
+    logoMobileText = ""
+    logoMobileImage = "images/logo/logo.png"
+    logoDesktopImageHeight = 32
+    logoDesktopImageWidth = 32
+    logoMobileImageHeight = 32
+    logoMobileImageWidth = 32
 
-  addFrame = false
-  addDot = false
+  [params.fonts]
+    google_fonts = "https://fonts.googleapis.com/css2?family=Fira+Mono&family=Lato:wght@300;400;700&family=Source+Sans+Pro&display=swap"
+    heading = "Lato"
+    base = "Source Sans Pro"
+    monospace = "Fira Mono"
 
-  highlightColor = '#1A202C'
+  [params.seo]
+    meta_twitter_site = "@MikeLapidakis"
+    meta_twitter_creator = "@MikeLapidakis"
+    meta_og_image = "https://www.zerostatic.io/theme/hugo-atlantic/hugo-atlantic-screenshot.png"
+
+[build]
+  writeStats = true
+
+[permalinks]
+    #posts = "posts/:year/:month/:title/"
+    posts = ":slug/"
+    pages = ":slug/"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    author = "authors"
+  
+# Main Menu
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
