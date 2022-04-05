@@ -5,7 +5,7 @@ description: Learning to embrace simplicity and bask in the speed of static webs
 slug: /simple-joys-static-sites/
 author:
   name: "Mike Lapidakis"
-  image: images/author/author.jpg
+  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
 thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/173d1beb-0e46-4dde-23a7-40b5d6a65600/thumbnail"
 image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/173d1beb-0e46-4dde-23a7-40b5d6a65600/hero"

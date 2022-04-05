@@ -5,7 +5,7 @@ description: A year later, and NextDNS is faster and quicker to setup
 slug: /nextdns-cacheing-unifi-dream-machine/
 author:
   name: "Mike Lapidakis"
-  image: images/author/author.jpg
+  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
 thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/a11946f4-091e-467b-bb19-01b53d558d00/thumbnail"
 image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/a11946f4-091e-467b-bb19-01b53d558d00/hero"

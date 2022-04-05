@@ -5,7 +5,7 @@ description: A how-to guide on setting up NextDNS on a RaspberryPi for your home
 slug: /replacing-pi-hole-with-nextdns/
 author:
   name: "Mike Lapidakis"
-  image: images/author/author.jpg
+  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
 thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/480bd41c-1def-4af0-4371-c3994afb0e00/thumbnail"
 image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/480bd41c-1def-4af0-4371-c3994afb0e00/hero"

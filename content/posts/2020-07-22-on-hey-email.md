@@ -5,7 +5,7 @@ description: My overview and thoughts on HEY, a new and opinionated email servic
 slug: /on-hey-email/
 author:
   name: "Mike Lapidakis"
-  image: images/author/author.jpg
+  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
 thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/cf2d69f1-797f-4933-330d-b7f68941da00/thumbnail"
 image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/cf2d69f1-797f-4933-330d-b7f68941da00/hero"

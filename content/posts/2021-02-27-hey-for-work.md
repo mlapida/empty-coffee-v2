@@ -5,7 +5,7 @@ description: Sharing the experience of using HEY for Work for a personal, custom
 slug: /hey-for-work-personal/
 author:
   name: "Mike Lapidakis"
-  image: images/author/author.jpg
+  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
 thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/6b18f08a-db5c-4f57-c040-6d7003534200/thumbnail"
 image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/6b18f08a-db5c-4f57-c040-6d7003534200/hero"

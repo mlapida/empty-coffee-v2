@@ -5,7 +5,7 @@ description: Roam Research has changed the way I take notes through networked th
 slug: /networked-notes-roam-research-future/
 author:
   name: "Mike Lapidakis"
-  image: images/author/author.jpg
+  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
 thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/d0cfbd8a-7210-4f97-3529-7cbc6fbbba00/thumbnail"
 image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/d0cfbd8a-7210-4f97-3529-7cbc6fbbba00/hero"

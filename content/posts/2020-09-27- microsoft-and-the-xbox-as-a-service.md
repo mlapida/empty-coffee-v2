@@ -5,7 +5,7 @@ description: Microsoft is lowering the barrier to entry for the next generation 
 slug: /microsoft-and-the-xbox-as-a-service/
 author:
   name: "Mike Lapidakis"
-  image: images/author/author.jpg
+  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
 thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/2590d9b4-bf53-4eeb-939f-3bd8f2120200/thumbnail"
 image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/2590d9b4-bf53-4eeb-939f-3bd8f2120200/hero"

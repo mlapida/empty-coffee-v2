@@ -5,7 +5,7 @@ description: Initial impressions of Levels Health continious glucose monitoring 
 slug: /tagging-and-snapshotting-with-lambda/
 author:
   name: "Mike Lapidakis"
-  image: images/author/author.jpg
+  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
 thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/ab5c99d9-58df-4e61-eb6a-a048e855fe00/thumbnail"
 image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/ab5c99d9-58df-4e61-eb6a-a048e855fe00/hero"

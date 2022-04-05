@@ -7,7 +7,7 @@ banner: ./icloud-logo.jpg
 categories: [Services, Apps, Email, HEY, Fastmail, Apple]
 author:
   name: "Mike Lapidakis"
-  image: images/author/author.jpg
+  image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
   twitter: "@MikeLapidakis"
 thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/c9d2802a-f275-4709-da05-a5238228a100/thumbnail"
 image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/c9d2802a-f275-4709-da05-a5238228a100/hero"
