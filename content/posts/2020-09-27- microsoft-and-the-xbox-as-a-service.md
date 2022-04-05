@@ -7,8 +7,8 @@ author:
   name: "Mike Lapidakis"
   image: images/author/author.jpg
   twitter: "@MikeLapidakis"
-thumbnail: "/images/xbox-all-access.jpeg"
-image: "/images/xbox-all-access.jpeg"
+thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/2590d9b4-bf53-4eeb-939f-3bd8f2120200/thumbnail"
+image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/2590d9b4-bf53-4eeb-939f-3bd8f2120200/hero"
 categories: [Gaming, Business, Microsoft, Xbox]
 ---
 

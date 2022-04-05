@@ -7,8 +7,8 @@ author:
   name: "Mike Lapidakis"
   image: images/author/author.jpg
   twitter: "@MikeLapidakis"
-thumbnail: "/images/train.jpg"
-image: "/images/train.jpg"
+thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/173d1beb-0e46-4dde-23a7-40b5d6a65600/thumbnail"
+image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/173d1beb-0e46-4dde-23a7-40b5d6a65600/hero"
 categories: [Guides, Serverless, Gatsby, AWS, Website]
 ---
 

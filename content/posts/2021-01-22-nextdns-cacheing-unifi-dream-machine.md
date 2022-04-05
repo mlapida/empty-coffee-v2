@@ -7,8 +7,8 @@ author:
   name: "Mike Lapidakis"
   image: images/author/author.jpg
   twitter: "@MikeLapidakis"
-thumbnail: "/images/ultralow.jpg"
-image: "/images/ultralow.jpg"
+thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/a11946f4-091e-467b-bb19-01b53d558d00/thumbnail"
+image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/a11946f4-091e-467b-bb19-01b53d558d00/hero"
 categories: [Guides, Networking, DNS, Security]
 ---
 
@@ -18,7 +18,7 @@ A year later, and I’m glad to report that NextDNS has addressed both caveats a
 
 ## Performance Improvements
 
-![NextDNS Ping Performance Page](/images/ping.jpg)
+![NextDNS Ping Performance Page](https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/0e4831b3-af04-4c8d-c134-00a23af7d000/post)
 
 NextDNS has launched a number of points-of-presence (POPs) around the globe to help improve resolution performance, as well as the launch of ultra low latency endpoints. For me, I’ve observed two new location in Denver to resolve requests, cutting the response time in half (12ms vs 29ms when resolving to Dallas). NextDNS launched [ping.nextdns.io](https://ping.nextdns.io) to let users measure the latency to the various POPs and identify which locations they’re using.
 
@@ -28,7 +28,7 @@ With these three performance improvements (new POPs, ultra low latency endpoints
 
 ## NextDNS on Unifi Dream Machine Pro
 
-![NextDNS Unifi CLI Prompt](/images/unifi.jpg)
+![NextDNS Unifi CLI Prompt](https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/e5f07cfe-5552-4680-3c87-d2029006ce00/post)
 
 The NextDNS CLI was updated to support installation on the Unifi Dream Machine (UDM) and Dream Machine Pro (UDMP). This removed the requirement to run a Raspberry Pi or other local server to setup the NextDNS proxy if you’re using these newer Unifi gateways. Installation is as straightforward as it gets. I’ve run this configuration for over three months with no disruptions.
 

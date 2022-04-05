@@ -7,8 +7,8 @@ author:
   name: "Mike Lapidakis"
   image: images/author/author.jpg
   twitter: "@MikeLapidakis"
-thumbnail: "/images/levelsbanner.jpg"
-image: "/images/levelsbanner.jpg"
+thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/06c10997-9649-4ff0-4c0b-b410d2ed3400/thumbnail"
+image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/06c10997-9649-4ff0-4c0b-b410d2ed3400/hero"
 categories: [Health, Quantified Self, Personal Data, Levels Health]
 ---
 
@@ -24,7 +24,7 @@ The next logical step was to try to quantify how well I was executing these fast
 
 ## The Next Level
 
-![The monitor and Levels patch](/images/patch01.jpg)
+![The monitor and Levels patch](https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/e92f4f81-8d9d-4a45-4323-3190de99d900/post)
 
 The concept of continuous glucose monitoring is incredible. A microchip is implanted in you, and can tell you, without a prick, what your blood sugar levels are. Ok, maybe that’s a bit dramatic. More accurately, you place a probe, with a small filament that resides just below the skin’s surface, on your body. The device is constantly monitoring and recording, and every so often you transfer the data to an app on your phone with a tap. After 14 days, you replace the probe and continue.
 
@@ -32,7 +32,7 @@ I loved the idea of being able to see how foods and activities impacted my blood
 
 ## Diving into Levels
 
-![The FreeStyle Libre and Levels patches](/images/levelspackage.jpg)
+![The FreeStyle Libre and Levels patches](https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/937b6603-ecb8-4797-3a57-4d48e1576e00/post)
 I stumbled on [Levels](https://levelshelth.com) in the fall while researching continuous glucose monitoring. Levels is a new service, still in the early stages, that takes the readings from a continuous glucose monitoring device, specifically the FreeStyle Libre, and turn it into actionable insights. The app pulls in the readings from the continuous glucose monitor and overlays meals, exercises, heart rate, sleep, and other data it imports from Apple Health.
 
 To get started, you sign up and provide information used to conduct an evaluation and secure a prescription, from a doctor, for the Freestyle Libre. For me, this process took about six weeks from the time I provided the information and payment until the box showed up at my front door. The contents of the package are minimal; two 14-day continuous glucose monitoring probes and four patches to protect the devices through daily wear.
@@ -45,7 +45,7 @@ To accommodate the relatively short monitoring period, the app provides little e
 
 ## Initial Impressions
 
-![The Levels App](/images/appcombo.jpg)
+![The Levels App](https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/ac273edd-3898-4b23-3e93-4e99ec851a00/post)
 
 I’ve tried food tracking apps in the past, manually recording the foods and amount in an effort to understand how well I was eating. These always failed, as inaccurate quantities and mismatched brands eroded my trust in the data that was presented. In the case of Levels, reporting meals is as simple as taking a photo and include a short summary of what I ate. I can then see, over the next two hours, how that food is impacting my body. This is a game changer for food tracking.
 
@@ -59,7 +59,7 @@ I’m looking forward to continue this experiment in improved metabolic health t
 
 ### Footnote: Exporting the Data
 
-![Levels Data Export](/images/datapage.png)
+![Levels Data Export](https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/140d6a81-33a5-4505-3afa-b04fdeb57b00/post)
 You may find that you want to export the data captured in Levels, specifically the blood glucose readings, and import them into another app. In my case, all of my health data is centralized in Apple Health, and while Levels has the ability to read Apple Health data for workouts and sleep, it doesn’t have the ability to write the blood glucose readings.
 
 I found that, through my account page on Levels, I was able to download a CSV of the raw readings. A quick serach uncovered an app, [Health CSV Importer](https://2017.lionheartsw.com/software/health-csv-importer/), that makes it easy to import the raw data from Levels into Apple Health. While it’s not as seamless as raw integration, there is a relatively easy path to import the data.

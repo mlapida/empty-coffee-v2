@@ -7,8 +7,8 @@ author:
   name: "Mike Lapidakis"
   image: images/author/author.jpg
   twitter: "@MikeLapidakis"
-thumbnail: "/images/nextdns-dash.jpg"
-image: "/images/nextdns-dash.jpg"
+thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/480bd41c-1def-4af0-4371-c3994afb0e00/thumbnail"
+image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/480bd41c-1def-4af0-4371-c3994afb0e00/hero"
 categories: [Guides, Networking, DNS, Security]
 ---
 
@@ -35,7 +35,9 @@ The following is a guide to creating a Raspberry Pi based NextDNS proxy (this me
 This starts like many other Raspberry Pi tutorials. The first step is to flash the Pi with the latest server OS. I generally go with [Raspbian Lite](https://www.raspberrypi.org/downloads/raspbian/), but you can select the linux flavor of your choice.
 
 I'm on a Mac, and use [Etcher](https://www.balena.io/etcher/) to flash my Pi's SD card with the OS.
-![Echer Image Burner](/images/echer.jpg)
+
+![Echer Image Burner](https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/edfd4de9-c29e-4189-f115-4e8bf28ea600/thumbnail)
+
 When done flashing, don't forget to add the ssh file to the root of the SD card/volume. This will ensure we can connect to the Pi without hooking up a monitor, keyboard, and mouse.
 
 To SSH into the Pi, simple open a new terminal session and connect by running `ssh pi@raspberry`. The default password is `raspberry`. Please change it!

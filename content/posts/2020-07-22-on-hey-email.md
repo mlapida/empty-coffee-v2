@@ -7,8 +7,8 @@ author:
   name: "Mike Lapidakis"
   image: images/author/author.jpg
   twitter: "@MikeLapidakis"
-thumbnail: "/images/hey.jpg"
-image: "/images/hey.jpg"
+thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/cf2d69f1-797f-4933-330d-b7f68941da00/thumbnail"
+image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/cf2d69f1-797f-4933-330d-b7f68941da00/hero"
 categories: [Services, Apps, Email, HEY, Fastmail, Google]
 ---
 
@@ -32,7 +32,7 @@ Before I continue, it’s important to note that HEY does not yet allow for cust
 
 ## Design and Workflow
 
-![The Imbox](/images/theimbox.jpeg)
+![The Imbox](https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/d28aae51-87f8-4a83-d793-f98e21195d00/post)
 
 HEY’s design and workflow are extremely opinionated. The “[Imbox](http://itsnotatypo.com "It’s Not a Typo")” is a paired down, minimalist list of email that HEY, through a [screening process](https://hey.com/features/the-screener/ "The Screener"), has deemed important to you. The rest of your email is tucked away in dedicated sections of the app. One section that HEY calls “[The Feed](https://hey.com/features/the-feed/ "The Feed")” consists of all informational emails, like newsletters and marketing materials. The other, “[Paper Trail](https://hey.com/features/paper-trail/ "The Paper Trail")”, is for those receipts and bills.
 

@@ -7,8 +7,8 @@ author:
   name: "Mike Lapidakis"
   image: images/author/author.jpg
   twitter: "@MikeLapidakis"
-thumbnail: "/images/tags.jpeg"
-image: "/images/tags.jpeg"
+thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/ab5c99d9-58df-4e61-eb6a-a048e855fe00/thumbnail"
+image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/ab5c99d9-58df-4e61-eb6a-a048e855fe00/hero"
 categories: [Development, AWS, Lambda, Python, Automation]
 ---
 

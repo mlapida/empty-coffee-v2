@@ -7,8 +7,8 @@ author:
   name: "Mike Lapidakis"
   image: images/author/author.jpg
   twitter: "@MikeLapidakis"
-thumbnail: "/images/strings.jpeg"
-image: "/images/strings.jpeg"
+thumbnail: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/d0cfbd8a-7210-4f97-3529-7cbc6fbbba00/thumbnail"
+image: "https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/d0cfbd8a-7210-4f97-3529-7cbc6fbbba00/hero"
 categories: [Guides, Networking, DNS, Security]
 ---
 
@@ -20,7 +20,7 @@ Enter networked note-taking. Networked note-taking replaces those tags and folde
 
 Several networked note-taking apps have sprung up over the past year, with some tried and true services adding the functionality. From Notion to [Bear](https://bear.app/ "Bear"), and [Obsidian](https://obsidian.md/ "Obsidian"), I've tried many of these services and their interpretation of networked notes. Each has taken its own twist on the concept, with varying degrees of success.
 
-![Roam Research Screen Shot](/images/roam.png)
+![Roam Research Screen Shot](https://imagedelivery.net/3iqqzuCu4mz697Mt3VX2wA/d86f9678-994a-4d6d-1d8c-8dbfe290bf00/post)
 
 Enter [Roam Research](https://roamresearch.com/ "Roam Research"). Roam is the godfather of the networked note-taking concept, launching over 18 months ago to much fanfare. At first glance, Roam is a simple, straightforward bullet-focused note-taking service. It opens with a note with the current date, and a bullet point to get you started. For me, this simple and intuitive way to get started taking notes is a game-changer. No more worrying about the title of the note, or what folder to put it in, or what tags to use. Just write.
 
