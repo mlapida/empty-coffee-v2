@@ -133,10 +133,15 @@
       "z-50"
     ],
     "ids": [
+      "background",
+      "conclusion",
       "menu-close",
       "menu-container",
       "menu-trigger",
-      "meta"
+      "meta",
+      "the-good",
+      "the-good-the-spam-and-the-ugly",
+      "the-spam-and-the-ugly"
     ]
   }
 }
