@@ -1,6 +1,6 @@
 ---
 title: Home
-meta_title: 'Empty Coffee'
+meta_title: "Empty Coffee - Home"
 date: 2020-03-22
 heading:
   title: "<strong>Got Coffee?</strong>"
