@@ -54,7 +54,6 @@
       "chroma",
       "container",
       "cursor:pointer",
-      "dark:bg-black",
       "duration-300",
       "ease-in-out",
       "fixed",
