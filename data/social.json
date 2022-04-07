@@ -1,12 +1,17 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/hugo-atlantic-theme",
-    "image": "https://simpleicons.org/icons/github.svg"
+    "link": "https://github.com/mlapida",
+    "image": "/icons/github.svg"
   },
   {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "https://simpleicons.org/icons/twitter.svg"
+    "link": "https://twitter.com/ReadEmptyCoffee",
+    "image": "/icons/twitter.svg"
+  },
+  {
+    "name": "Medium",
+    "link": "https://medium.com/empty-coffee",
+    "image": "/icons/medium.svg"
   }
 ]
