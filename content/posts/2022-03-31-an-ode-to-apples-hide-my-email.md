@@ -1,5 +1,5 @@
 ---
-title: "An Ode to Apples Hide My Email"
+title: "An Ode to Apple's Hide My Email"
 date: 2022-03-31
 slug: /an-ode-to-apples-hide-my-email/
 description: Apple's Hide My Email feature is one of the most under-rated privacy launches of the past year, and here's why.
