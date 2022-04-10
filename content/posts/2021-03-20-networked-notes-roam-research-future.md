@@ -5,10 +5,10 @@ description: Roam Research has changed the way I take notes through networked th
 slug: /networked-notes-roam-research-future/
 author:
   name: "Mike Lapidakis"
-  image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
+  image: "69194722-6f88-4268-402b-a24f5c3daf00"
   twitter: "@MikeLapidakis"
-thumbnail: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/d0cfbd8a-7210-4f97-3529-7cbc6fbbba00/thumbnail"
-image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/d0cfbd8a-7210-4f97-3529-7cbc6fbbba00/hero"
+imageAlt: "Strings"
+image: "d0cfbd8a-7210-4f97-3529-7cbc6fbbba00"
 categories: [Guides, Networking, DNS, Security]
 ---
 

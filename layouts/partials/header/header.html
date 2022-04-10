@@ -10,7 +10,8 @@
         height="{{ site.Params.logo.logoDesktopImageHeight }}"
         width="{{ site.Params.logo.logoDesktopImageWidth }}"
         alt="{{ site.Params.title }} Logo"
-        src="{{ site.Params.logo.logoDesktopImage | relURL }}"
+        src="{{ site.Params.image.baseURL }}{{ site.Params.logo.logoDesktopImage }}{{
+        site.Params.image.desktopLogoSuffix }}"
       />
       {{ end }} {{ if site.Params.logo.showLogoTextOnDesktop }}
       <h2 class="text-2xl font-sans font-semibold">
@@ -29,7 +30,8 @@
         height="{{ site.Params.logo.logoMobileImageHeight }}"
         width="{{ site.Params.logo.logoMobileImageWidth }}"
         alt="{{ site.Params.title }} Logo"
-        src="{{ site.Params.logo.logoMobileImage | relURL }}"
+        src="{{ site.Params.image.baseURL }}{{ site.Params.logo.logoMobileImage }}{{
+        site.Params.image.mobileLogoSuffix }}"
       />
       {{ end }} {{ if site.Params.logo.showLogoTextOnMobile }}
       <h2 class="text-2xl font-sans font-semibold">

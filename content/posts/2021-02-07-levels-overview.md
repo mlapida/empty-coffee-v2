@@ -5,10 +5,10 @@ description: Initial impressions of Levels Health continious glucose monitoring 
 slug: /levels-health-first-impressions/
 author:
   name: "Mike Lapidakis"
-  image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
+  image: "69194722-6f88-4268-402b-a24f5c3daf00"
   twitter: "@MikeLapidakis"
-thumbnail: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/06c10997-9649-4ff0-4c0b-b410d2ed3400/thumbnail"
-image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/06c10997-9649-4ff0-4c0b-b410d2ed3400/hero"
+imageAlt: "Levels Homepage Screenshot"
+image: "06c10997-9649-4ff0-4c0b-b410d2ed3400"
 categories: [Health, Quantified Self, Personal Data, Levels Health]
 ---
 

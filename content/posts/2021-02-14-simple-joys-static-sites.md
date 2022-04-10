@@ -5,10 +5,10 @@ description: Learning to embrace simplicity and bask in the speed of static webs
 slug: /simple-joys-static-sites/
 author:
   name: "Mike Lapidakis"
-  image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
+  image: "69194722-6f88-4268-402b-a24f5c3daf00"
   twitter: "@MikeLapidakis"
-thumbnail: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/173d1beb-0e46-4dde-23a7-40b5d6a65600/thumbnail"
-image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/173d1beb-0e46-4dde-23a7-40b5d6a65600/hero"
+imageAlt: "A Streetcare in Downtown Houston"
+image: "173d1beb-0e46-4dde-23a7-40b5d6a65600"
 categories: [Guides, Serverless, Gatsby, AWS, Website]
 ---
 

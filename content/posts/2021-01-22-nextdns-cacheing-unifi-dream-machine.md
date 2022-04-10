@@ -5,10 +5,10 @@ description: A year later, and NextDNS is faster and quicker to setup
 slug: /nextdns-cacheing-unifi-dream-machine/
 author:
   name: "Mike Lapidakis"
-  image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
+  image: "69194722-6f88-4268-402b-a24f5c3daf00"
   twitter: "@MikeLapidakis"
-thumbnail: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/a11946f4-091e-467b-bb19-01b53d558d00/thumbnail"
-image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/a11946f4-091e-467b-bb19-01b53d558d00/hero"
+iamgeAlt: "NextDNS Network Topology"
+image: "a11946f4-091e-467b-bb19-01b53d558d00"
 categories: [Guides, Networking, DNS, Security]
 ---
 

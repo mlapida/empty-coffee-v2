@@ -5,10 +5,10 @@ description: My overview and thoughts on HEY, a new and opinionated email servic
 slug: /on-hey-email/
 author:
   name: "Mike Lapidakis"
-  image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
+  image: "69194722-6f88-4268-402b-a24f5c3daf00"
   twitter: "@MikeLapidakis"
-thumbnail: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/cf2d69f1-797f-4933-330d-b7f68941da00/thumbnail"
-image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/cf2d69f1-797f-4933-330d-b7f68941da00/hero"
+imageAlt: "HEY! Panes"
+image: "cf2d69f1-797f-4933-330d-b7f68941da00"
 categories: [Services, Apps, Email, HEY, Fastmail, Google]
 ---
 

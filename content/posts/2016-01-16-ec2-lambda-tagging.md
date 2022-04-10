@@ -5,10 +5,10 @@ description: Initial impressions of Levels Health continious glucose monitoring 
 slug: /tagging-and-snapshotting-with-lambda/
 author:
   name: "Mike Lapidakis"
-  image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
+  image: "69194722-6f88-4268-402b-a24f5c3daf00"
   twitter: "@MikeLapidakis"
-thumbnail: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/ab5c99d9-58df-4e61-eb6a-a048e855fe00/thumbnail"
-image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/ab5c99d9-58df-4e61-eb6a-a048e855fe00/hero"
+imageAlt: "Tags"
+image: "ab5c99d9-58df-4e61-eb6a-a048e855fe00"
 categories: [Development, AWS, Lambda, Python, Automation]
 ---
 

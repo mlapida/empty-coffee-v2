@@ -5,10 +5,10 @@ slug: /an-ode-to-apples-hide-my-email/
 description: Apple's Hide My Email feature is one of the most under-rated privacy launches of the past year, and here's why.
 author:
   name: "Mike Lapidakis"
-  image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
+  image: "69194722-6f88-4268-402b-a24f5c3daf00"
   twitter: "@MikeLapidakis"
-thumbnail: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/49e3740c-6bce-46c9-2991-41cb692ade00/thumbnail"
-image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/49e3740c-6bce-46c9-2991-41cb692ade00/hero"
+image: "49e3740c-6bce-46c9-2991-41cb692ade00"
+imageAlt: "iCloud Preference Page"
 categories: [Services, Apple, Email, Security, Privacy]
 ---
 
@@ -22,7 +22,7 @@ _Hide My Email_ is a simple feature that creates randomly generated email addres
 4. **Seamless Reply** - The service creates a proxied return address, allowing you to reply to an email directly while remaining concealed behind the unique, random address. This works regardless of client or email service.
 5. **Tracking the Trackers** - If you’re creating unique addresses for each newsletter or site you sign up for, it becomes trivial to track when one site sells (or leaks) your email to a spammer.
 6. **Security Through Obscurity** - Similar to the practice of creating a unique password for each site you log into, creating a unique email adds yet another layer of security. Potential hackers must guess your password and must also guess your email.
-7. **Cut and Release **- Finally, if a service leaks your email or doesn’t have a functioning unsubscribe button on their marketing blasts, you can delete the unique address and move on.
+7. **Cut and Release** - Finally, if a service leaks your email or doesn’t have a functioning unsubscribe button on their marketing blasts, you can delete the unique address and move on.
 
 It’s inventible - the more time spent online, the higher the likelihood that your inbox fills to the brim with unwanted messages from spammers and marketers. Any step I can take to prolong the useful life of my email address is a massive win in my book. Couple this with the privacy benefits, the system-wide integration, and that the service is included in any iCloud storage plan, and I’m sold. I’ve found myself changing the email on sites I won’t trust with my email and swapping out nearly all of my newsletter subscriptions with unique addresses.
 

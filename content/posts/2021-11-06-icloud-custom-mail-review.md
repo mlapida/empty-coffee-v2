@@ -7,10 +7,10 @@ banner: ./icloud-logo.jpg
 categories: [Services, Apps, Email, HEY, Fastmail, Apple]
 author:
   name: "Mike Lapidakis"
-  image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/69194722-6f88-4268-402b-a24f5c3daf00/tiny"
+  image: "69194722-6f88-4268-402b-a24f5c3daf00"
   twitter: "@MikeLapidakis"
-thumbnail: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/c9d2802a-f275-4709-da05-a5238228a100/thumbnail"
-image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/c9d2802a-f275-4709-da05-a5238228a100/hero"
+imageAlt: "iCloud Logo"
+image: "c9d2802a-f275-4709-da05-a5238228a100"
 ---
 
 In August, [Apple released iCloud+](https://www.macrumors.com/2021/08/25/icloud-custom-email-domain-feature-in-beta/) with the ability to add a custom domain to iCloud Mail. After several months of full-time use, I wanted to share my experience and some of the things to look out for if you’re considering making a move. In short, I’m optimistic but a bit disappointed in Apple’s progress in offering custom domains to iCloud subscribers so far.
