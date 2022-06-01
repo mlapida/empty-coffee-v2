@@ -3,7 +3,7 @@ title: "About"
 date: 2020-01-02
 permalink: "/about/"
 description: "Business plan hackathon handshake responsive web design."
-image: "https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/145d14c6-b141-4d56-afc4-257d19742e00/hero"
+image: "145d14c6-b141-4d56-afc4-257d19742e00"
 ---
 
 Empty Coffee is the personal blog of [Mike Lapidakis](https://mike.lapidak.is), an AWS Solutions Architect leader living in Colorado. Here at Empty Coffee, Mike writes about his perspective on technology, the economy, and business. The content’s focus will change over time.
