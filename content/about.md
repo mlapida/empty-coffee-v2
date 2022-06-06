@@ -2,7 +2,7 @@
 title: "About"
 date: 2020-01-02
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "This site was created when I ran out of coffee"
 image: "145d14c6-b141-4d56-afc4-257d19742e00"
 ---
 
