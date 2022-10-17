@@ -7,7 +7,7 @@ author:
   name: "Mike Lapidakis"
   image: "69194722-6f88-4268-402b-a24f5c3daf00"
   twitter: "@MikeLapidakis"
-image: "52a7d9df-e7cc-401e-139f-ca4de4689600"
+image: "8f81b875-9d6c-48e8-cfab-f238401e8100"
 imageAlt: "Home Assistant Dashboard"
 categories: [Guide, Smart Home, DNS, Networking, Security]
 ---
@@ -28,26 +28,26 @@ I set out to provide remote access while:
 ## The Possible Solutions
 I tested three solutions to address this security challenge. The first option tested was the cloud access provided by Nabu Casa. This works seamlessly in the app, meets the requirement for easy configuration, but doesn’t include a WAF and creates a very long, random URL that is not ideal (this is part of their security model, which I don’t love). 
 
-![Tailscale Add-on](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/357e0a05-36ba-4b8f-068b-2b0880ea6400/post)
+![Tailscale Add-on](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/384fe3a9-c78c-4db7-5468-f32805b20700/post)
 
 Next, I tested [Tailscale](https://tailscale.com), a [WireGuard](https://www.wireguard.com)-based VPN that provides direct access to Home Assistant, with light device level configuration. There is an [add-on for Home Assistant](https://github.com/hassio-addons/addon-tailscale) that allows for simple configuration. In testing, I found the client-side VPN connection unstable, dropping at times and causing inconsistent automation actions. It also requires the VPN to be installed on all devices which access the web interface, meaning I wasn’t able to access my Home Assistant setup from a work laptop, for example. 
 
-![Cloudflare Home Assistant Add On](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/f15674dd-6c62-4dde-4753-ec98ecc6c800/post)
+![Cloudflare Home Assistant Add On](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/570d9fc6-b3b2-459c-d3f8-659f36046400/post)
 
 Finally, I tested [Cloudflare Zero Trust](https://www.Cloudflare.com/products/zero-trust/). Again, an [add-on exists for Home Assistant](https://github.com/brenner-tobias/addon-Cloudflared) to configure Cloudflare directly from the home automation platform’s settings page. Cloudflare Zero Trust checked all the boxes above, and then some, and allowed me to use a domain hosted on Cloudflare to access the web interface. If required, I could take the security up a level by requiring all devices accessing the web interface use the Cloudflare WARP client; something I wouldn’t do initially due to the lack of DNS customizations from Cloudflare. 
 
 ## Configuring Cloudflare Zero Trust for Home Assistant
 Cloudflare provides two key elements required to make this work. First, the ability to use Cloudflare as a DNS name server for hosting domain names you own. Second Cloudflare Zero Trust which allows the creation of tunnels to Cloudflare infrastructure, along with WAF capabilities and advanced authentication and authorization functionality. 
 
-![Cloudflare Add New Domain](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/fbbf71b7-f3c0-4013-b130-f037b31c0300/post)
+![Cloudflare Add New Domain](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/66aacb15-88cf-4651-f357-51bbcf2da700/post)
 
-First, you’ll need to host a domain, or subdomain, on Cloudflare. You can use Cloudflare to purchase a domain if you don’t own one, or point the name servers of a domain purchased elsewhere to Cloudflare. This process is documented extensively on the Cloudflare documentation. 
+First, you’ll need to host a domain, or subdomain, on Cloudflare. You can use Cloudflare to purchase a domain if you don’t own one, or point the name servers of a domain purchased elsewhere to Cloudflare. This process is [documented extensively on the Cloudflare documentation](https://developers.cloudflare.com/fundamentals/get-started/setup/add-site/). 
 
-![Cloudflare Add New Tunnel](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/380e6b04-f207-4e5c-50f8-3756be4e8d00/post)
+![Cloudflare Add New Tunnel](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/2c5015c7-b5a0-4d99-f6e6-fe5d8b981600/post)
 
 Next, you’ll need to install the [Cloudflare add-on to Home Assistant](https://github.com/brenner-tobias/addon-Cloudflared). If you’re running [Home Assistant OS](https://developers.home-assistant.io/docs/operating-system/) on a Raspberry Pi or similar device, the installation, and configuration is a breeze. The add-on also has [extensive documentation](https://github.com/brenner-tobias/addon-Cloudflared/blob/main/Cloudflared/DOCS.md). I chose the **remote tunnel** option, which allows all configuration settings to be managed from the Cloudflare dashboard. 
 
-![Cloudflare Zero Trust Add New Tunnel](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/8e639853-490b-40aa-44ce-728ef4c67a00/post)
+![Cloudflare Zero Trust Add New Tunnel](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/bcbe90ec-60a7-495b-2b46-418cb2ed7a00/post)
 
 Finally, navigate to the Cloudflare Zero Trust console, select Access from the navigation bar, and select Tunnels. Here you’ll see the newly created Home Assistant tunnel. Click Configure, and click Public Hostname to set up the domain name. You’ll see a dropdown list with the available domain names. Select one, add a subdomain, and configure the local IP address for Home Assistant. In my case, this was `http://192.168.0.6:8123`. Now simply navigate to the domain name mapped to log into Home Assistant. 
 
@@ -57,7 +57,7 @@ Enterprise platforms like Cloudflare have endless capabilities for securing web 
 
 ### Web Application Firewall Rules
 
-![Cloudflare WAF Setup](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/52848e36-232d-424f-26a5-e8a7aaebb300/post)
+![Cloudflare WAF Setup](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/a2dfdc36-b685-4047-b5ad-84b1e0c22300/post)
 
 One requirement for me was the ability to block specific countries from attempting to log into my Home Assistant environment. I did this by navigating to the domain name from the main Cloudflare dashboard, expanding the security section, and selecting WAF. From there, I created a new WAF rule with a list of countries I would rather not have the ability to access my Home Assistant endpoint. 
 
@@ -67,11 +67,11 @@ Another option is the ability to add a secondary authentication and authorizatio
 
 To set this up, start by creating an access group. Navigate to Access, then Access Groups in the Cloudflare Zero Trust dashboard and create a new group with all users which you’d like to have the ability to access the Home Assistant. Name the group and set this as the default.
 
-![Cloudflare Zero Trust Add Application](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/eb159bc9-d46d-4777-6e2d-a2957721c000/post)
+![Cloudflare Zero Trust Add Application](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/ab4cd514-976e-4cf4-827e-634270579400/post)
 
 Next, navigate to the Applications page under Access. Select “Add an Application” and “Self-hosted” from the next screen. Fill in the name (i.e., Home Assistant) and the path to the application, which will be the same as the Tunnel configuration above. On the policies page, add a new `allow` policy and make sure the default group created above is assigned. Save the policy and complete the setup wizard. 
 
-![Cloudflare Zero Trust Login w/ pin](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/c542ed7b-3d26-44d4-4fdd-9d673e80c200/post)
+![Cloudflare Zero Trust Login w/ pin](https://empty.coffee/cdn-cgi/imagedelivery/3iqqzuCu4mz697Mt3VX2wA/892283a8-c324-41de-9218-c33d24c1e600/post)
 
 When done, navigate to the URL for your Home Assistant dashboard. You’ll be prompted to enter an email address associated with the Cloudflare Zero Trust environment. Enter your email, find the pin in your email inbox, paste the pin in the authentication page, and proceed. 
 
