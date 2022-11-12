@@ -13,5 +13,10 @@
     "name": "Medium",
     "link": "https://medium.com/empty-coffee",
     "image": "/icons/medium.svg"
+  },
+  {
+    "name": "Mastodon",
+    "link": "https://lap.social/@mike",
+    "image": "/icons/mastodon.svg"
   }
 ]
