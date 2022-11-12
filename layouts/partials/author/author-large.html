@@ -1,6 +1,7 @@
 {{ $name := .name }} {{ $image := .image }} {{ $twitter := .twitter }}
 
 <div class="flex items-center mb-3 last:mb-0">
+  <a rel="me" href="https://mike.lapidak.is">
   {{ if $image }}
   <img
     height="48"
@@ -19,4 +20,5 @@
       >{{ $twitter }}</a
     >
   </div>
+  </a>
 </div>

@@ -2,7 +2,8 @@
 
 <div class="flex items-center mr-2 -ml-4">
   {{ if $image }}
-  <img
+  <a rel="me" href="https://mike.lapidak.is">
+    <img
     width="28"
     height="28"
     class="rounded-full border-white border-2"
@@ -13,4 +14,5 @@
   {{ end }} {{ if $showName }}
   <span class="font-medium text-sm ml-1">{{ $name}}</span>
   {{ end }}
+  </a>
 </div>
