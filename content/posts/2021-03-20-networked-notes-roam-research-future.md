@@ -9,7 +9,7 @@ author:
   twitter: "@MikeLapidakis"
 imageAlt: "Strings"
 image: "d0cfbd8a-7210-4f97-3529-7cbc6fbbba00"
-categories: [Guides, Networking, DNS, Security]
+categories: [Guides, Productivity, Roam Research]
 ---
 
 I've spent the better part of my adult life searching for and switching up various note-taking apps. From [Notion](https://www.notion.so/) to [Workflowy](https://workflowy.com/), and [OneNote](https://www.onenote.com/), I've saved meeting notes, web clippings, and random thoughts in a plethora of tools and services across the web. Since joining [Evernote](https://evernote.com/) in 2008, I've found it impossible to find the perfect note-taking app. The allure of "remembering everything" consistently clashed with clunky interfaces, poor privacy policies, confusing organizational systems, and limited feature sets.
