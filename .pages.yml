@@ -1,7 +1,1 @@
-content:
-  - name: posts
-    label: Posts
-    path: content/posts
-    type: collection
-    fields: [title,date,author]
-      
+media: static
